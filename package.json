@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "dynamodb-admin": "^4.4.0",
     "dynamoose": "^2.8.5",
     "ts-node": "^10.8.2",
     "tslib": "^2.4.0",
